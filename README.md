@@ -31,10 +31,10 @@ E-Commerce Website
 
 # Installation Setup
   1.clone this repository
-  git clone
+  git clone https://github.com/Snigdha-Sadhu/E-Commerce-Website.git
 
   2.Navigate into the project folder:
-  cd Socialmedia https://github.com/Snigdha-Sadhu/Simple-Social-Media-App.git
+  cd groceryshop 
 
   3.Install dependencies:
   npm install
